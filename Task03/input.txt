@@ -1,0 +1,2 @@
+No keyboard input required.
+The program uses predefined vehicle numbers and parking slots.

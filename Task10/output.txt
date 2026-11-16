@@ -1,0 +1,4 @@
+Registration: TN01AB1234
+Duration: 90
+Integer equals: true
+Invalid duration rejected

@@ -1,0 +1,4 @@
+Car fee: Rs 60
+EV parking fee: Rs 60
+Charging facility available
+Charging fee: Rs 60.0

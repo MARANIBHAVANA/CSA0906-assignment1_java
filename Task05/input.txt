@@ -1,0 +1,2 @@
+No keyboard input required.
+The program creates three tickets using North Gate and South Gate facilities.

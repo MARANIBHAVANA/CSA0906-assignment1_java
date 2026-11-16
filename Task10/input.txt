@@ -1,0 +1,1 @@
+No keyboard input required. The program tests valid and invalid duration values.\n

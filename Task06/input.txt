@@ -1,0 +1,1 @@
+No keyboard input required. The program creates one ElectricCar object.\n

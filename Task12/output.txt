@@ -1,0 +1,4 @@
+E-bike fee: Rs 25.0
+Delivery van fee: Rs 120.0
+One-day pass fee: Rs 0.0
+Slot allocated: true

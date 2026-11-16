@@ -1,0 +1,1 @@
+No keyboard input required. The program runs normal, duplicate and invalid-slot tests.\n

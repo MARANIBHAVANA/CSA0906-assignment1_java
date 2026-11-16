@@ -1,0 +1,7 @@
+TN01AB1234 parked in slot 1
+TN02CD5678 parked in slot 2
+Duplicate registration rejected
+TN01AB1234 parking fee: Rs 60.0
+TN02CD5678 parking fee: Rs 20.0
+Total collection: Rs 80.0
+Invalid slot accepted: false

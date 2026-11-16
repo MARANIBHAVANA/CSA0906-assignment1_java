@@ -1,0 +1,15 @@
+Ticket Number: 1001
+Vehicle Number: Not Assigned
+Entry Time: Not Recorded
+
+Ticket Number: 1002
+Vehicle Number: TN01AB1234
+Entry Time: Not Recorded
+
+Ticket Number: 1003
+Vehicle Number: TN02CD5678
+Entry Time: 10:30 AM
+
+Ticket Number: 1003
+Vehicle Number: TN02CD5678
+Entry Time: 10:30 AM

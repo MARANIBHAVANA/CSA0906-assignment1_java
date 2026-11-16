@@ -1,0 +1,2 @@
+No keyboard input required.
+Four ParkingTicket objects are created using different constructors.

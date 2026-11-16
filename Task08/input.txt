@@ -1,0 +1,1 @@
+No keyboard input required. Three vehicle types are tested for 130 minutes.\n
